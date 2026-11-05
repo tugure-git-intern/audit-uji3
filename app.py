@@ -32,3 +32,4 @@ if __name__ == "__main__":
     server = make_server("0.0.0.0", 8000)
     print("Listening on 0.0.0.0:8000", flush=True)
     server.serve_forever()
+# Fitur baru: Menambahkan endpoint untuk testing
