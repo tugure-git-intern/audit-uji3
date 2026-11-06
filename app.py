@@ -33,3 +33,5 @@ if __name__ == "__main__":
     print("Listening on 0.0.0.0:8000", flush=True)
     server.serve_forever()
 # Fitur baru: Menambahkan endpoint untuk testing
+
+# uji identitas: deploy dari dashboard (Jalankan Ulang)
